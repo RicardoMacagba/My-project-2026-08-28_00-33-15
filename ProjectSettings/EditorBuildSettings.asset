@@ -14,5 +14,17 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GameCategories.unity
     guid: 0efa1e3b7252848498a7b1c47f789686
+  - enabled: 1
+    path: Assets/Scenes/GoFoodsSubCategory.unity
+    guid: d7189d7024896ad439cd3543daf1eaf7
+  - enabled: 1
+    path: Assets/Scenes/MiniGame_SuperGoHero.unity
+    guid: 31170e51cc47a3c488f4a407c370a339
+  - enabled: 1
+    path: Assets/Scenes/MiniGame_StudentFuel.unity
+    guid: 3f6687d58ad7dc948beddf3d05ef41c3
+  - enabled: 1
+    path: Assets/Scenes/MiniGame_RobotDance.unity
+    guid: 7cb760e36d2cfaf4f9b63da277214412
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
