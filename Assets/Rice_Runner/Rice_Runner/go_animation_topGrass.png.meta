@@ -1,0 +1,916 @@
+fileFormatVersion: 2
+guid: d855f0893b9d20643a708872f2ed3190
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1498544280296656451
+    second: go_animation_topGrass_0
+  - first:
+      213: -7204478813276558801
+    second: go_animation_topGrass_1
+  - first:
+      213: -3395778889435372744
+    second: go_animation_topGrass_2
+  - first:
+      213: 4937637996470484412
+    second: go_animation_topGrass_3
+  - first:
+      213: -2585887300361041082
+    second: go_animation_topGrass_4
+  - first:
+      213: 7736427486918327727
+    second: go_animation_topGrass_5
+  - first:
+      213: -8096830310445428469
+    second: go_animation_topGrass_6
+  - first:
+      213: -8943976013730961483
+    second: go_animation_topGrass_7
+  - first:
+      213: 8105554365917421386
+    second: go_animation_topGrass_8
+  - first:
+      213: 4557067453921872937
+    second: go_animation_topGrass_9
+  - first:
+      213: -1565358790511499964
+    second: go_animation_topGrass_10
+  - first:
+      213: -1045529360594626602
+    second: go_animation_topGrass_11
+  - first:
+      213: -8752901624396091341
+    second: go_animation_topGrass_12
+  - first:
+      213: -9033833255992932574
+    second: go_animation_topGrass_13
+  - first:
+      213: 9076576279023125882
+    second: go_animation_topGrass_14
+  - first:
+      213: -6419381355451830101
+    second: go_animation_topGrass_15
+  - first:
+      213: 1924312812922391877
+    second: go_animation_topGrass_16
+  - first:
+      213: 6450009840883155658
+    second: go_animation_topGrass_17
+  - first:
+      213: -6898653926876584399
+    second: go_animation_topGrass_18
+  - first:
+      213: 1608003887887086340
+    second: go_animation_topGrass_19
+  - first:
+      213: 904322659860554187
+    second: go_animation_topGrass_20
+  - first:
+      213: 67708127371233936
+    second: go_animation_topGrass_21
+  - first:
+      213: -7230307746407581393
+    second: go_animation_topGrass_22
+  - first:
+      213: 9211430157905805206
+    second: go_animation_topGrass_23
+  - first:
+      213: 6762823779665067278
+    second: go_animation_topGrass_24
+  - first:
+      213: -8102986383568889389
+    second: go_animation_topGrass_25
+  - first:
+      213: 4229141296646407986
+    second: go_animation_topGrass_26
+  - first:
+      213: -5145938055894554390
+    second: go_animation_topGrass_27
+  - first:
+      213: 1957723264137859515
+    second: go_animation_topGrass_28
+  - first:
+      213: 7144501056829317526
+    second: go_animation_topGrass_29
+  - first:
+      213: 7370594509149247755
+    second: go_animation_topGrass_30
+  - first:
+      213: 3698780191476872917
+    second: go_animation_topGrass_31
+  - first:
+      213: 7438480830962884066
+    second: go_animation_topGrass_32
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: go_animation_topGrass_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 373
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db179bcaae9143be0800000000000000
+      internalID: -1498544280296656451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_topGrass_1
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 375
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2aa2d6b0bc840c90800000000000000
+      internalID: -7204478813276558801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_topGrass_2
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 382
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8332f677715cfd0d0800000000000000
+      internalID: -3395778889435372744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_topGrass_3
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 383
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd3819d893068440800000000000000
+      internalID: 4937637996470484412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_topGrass_4
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 374
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b49c073351d1cd0800000000000000
+      internalID: -2585887300361041082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_topGrass_5
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 392
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadb55c5fcf4d5b60800000000000000
+      internalID: 7736427486918327727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_topGrass_6
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 392
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01d8434bb742af80800000000000000
+      internalID: -8096830310445428469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_topGrass_7
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 380
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7a3f5e33d90e380800000000000000
+      internalID: -8943976013730961483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_topGrass_8
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 339
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fdf1030c6bc7070800000000000000
+      internalID: 8105554365917421386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_topGrass_9
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 370
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cc18874b4fd3f30800000000000000
+      internalID: 4557067453921872937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_topGrass_10
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 377
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445e681497ab64ae0800000000000000
+      internalID: -1565358790511499964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_topGrass_11
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 377
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7148306988d71f0800000000000000
+      internalID: -1045529360594626602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_topGrass_12
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 358
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3307ee3f852778680800000000000000
+      internalID: -8752901624396091341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_topGrass_13
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 358
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2274e68548061a280800000000000000
+      internalID: -9033833255992932574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_topGrass_14
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 346
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7509e7390a76fd70800000000000000
+      internalID: 9076576279023125882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_topGrass_15
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 351
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba037862ba6c9e6a0800000000000000
+      internalID: -6419381355451830101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_topGrass_16
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 352
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54dc8f2de4884ba10800000000000000
+      internalID: 1924312812922391877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_topGrass_17
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 348
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac24d93d6c9038950800000000000000
+      internalID: 6450009840883155658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_topGrass_18
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 349
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136ea2cddce0340a0800000000000000
+      internalID: -6898653926876584399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_topGrass_19
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 348
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403f4f63407c05610800000000000000
+      internalID: 1608003887887086340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_topGrass_20
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 337
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc12357faaccc8c00800000000000000
+      internalID: 904322659860554187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_topGrass_21
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 345
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a8e50ee2c80f000800000000000000
+      internalID: 67708127371233936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_topGrass_22
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 347
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29fe969969c8ab90800000000000000
+      internalID: -7230307746407581393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_topGrass_23
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 348
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fbb43ace295df70800000000000000
+      internalID: 9211430157905805206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_topGrass_24
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 347
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d308985606add50800000000000000
+      internalID: 6762823779665067278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_topGrass_25
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 356
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d99c8bc0d86c8f80800000000000000
+      internalID: -8102986383568889389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_topGrass_26
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 326
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2374b833a9de0ba30800000000000000
+      internalID: 4229141296646407986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_topGrass_27
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 328
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8ad3e3a94f598b0800000000000000
+      internalID: -5145938055894554390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_topGrass_28
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 324
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1947fafea3b2b10800000000000000
+      internalID: 1957723264137859515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_topGrass_29
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 325
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691e6b5abdd562360800000000000000
+      internalID: 7144501056829317526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_topGrass_30
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 327
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09194da7ac994660800000000000000
+      internalID: 7370594509149247755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_topGrass_31
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 328
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6fa37bcf4b45330800000000000000
+      internalID: 3698780191476872917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_topGrass_32
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 328
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed581ea7eaca3760800000000000000
+      internalID: 7438480830962884066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

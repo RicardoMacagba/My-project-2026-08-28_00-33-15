@@ -1,0 +1,1108 @@
+fileFormatVersion: 2
+guid: 15ecb9188e6f56a42b7ac27600a2f89b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5318673796296434230
+    second: go_animation_BottGrass_0
+  - first:
+      213: 1027118196848012783
+    second: go_animation_BottGrass_1
+  - first:
+      213: 1211936855741370048
+    second: go_animation_BottGrass_2
+  - first:
+      213: 7608737578590350226
+    second: go_animation_BottGrass_3
+  - first:
+      213: 8075466858651449492
+    second: go_animation_BottGrass_4
+  - first:
+      213: 3456539012987840366
+    second: go_animation_BottGrass_5
+  - first:
+      213: 8619732146341370092
+    second: go_animation_BottGrass_6
+  - first:
+      213: -2554901790921730960
+    second: go_animation_BottGrass_7
+  - first:
+      213: -543024275427936901
+    second: go_animation_BottGrass_8
+  - first:
+      213: 1340711713686091881
+    second: go_animation_BottGrass_9
+  - first:
+      213: -4263127579945986726
+    second: go_animation_BottGrass_10
+  - first:
+      213: -1789986892998941256
+    second: go_animation_BottGrass_11
+  - first:
+      213: -4432745993929759133
+    second: go_animation_BottGrass_12
+  - first:
+      213: 8488600982235681211
+    second: go_animation_BottGrass_13
+  - first:
+      213: -4129638370240962319
+    second: go_animation_BottGrass_14
+  - first:
+      213: -369970509595755132
+    second: go_animation_BottGrass_15
+  - first:
+      213: 118198061882024333
+    second: go_animation_BottGrass_16
+  - first:
+      213: 1667127394012237060
+    second: go_animation_BottGrass_17
+  - first:
+      213: 4572668188508519145
+    second: go_animation_BottGrass_18
+  - first:
+      213: 3950941751103041134
+    second: go_animation_BottGrass_19
+  - first:
+      213: 2002413961980000662
+    second: go_animation_BottGrass_20
+  - first:
+      213: 2298827601677778924
+    second: go_animation_BottGrass_21
+  - first:
+      213: -5740347150416779199
+    second: go_animation_BottGrass_22
+  - first:
+      213: -3276125894054472249
+    second: go_animation_BottGrass_23
+  - first:
+      213: 5210102125072301447
+    second: go_animation_BottGrass_24
+  - first:
+      213: -6520670039842775682
+    second: go_animation_BottGrass_25
+  - first:
+      213: 1615938723494651952
+    second: go_animation_BottGrass_26
+  - first:
+      213: 1552852938466373587
+    second: go_animation_BottGrass_27
+  - first:
+      213: 3696461752899830912
+    second: go_animation_BottGrass_28
+  - first:
+      213: 6374424061389820845
+    second: go_animation_BottGrass_29
+  - first:
+      213: 491128026985353502
+    second: go_animation_BottGrass_30
+  - first:
+      213: -1073809897845116520
+    second: go_animation_BottGrass_31
+  - first:
+      213: -435337694567910440
+    second: go_animation_BottGrass_32
+  - first:
+      213: -2977451954208167899
+    second: go_animation_BottGrass_33
+  - first:
+      213: -8987560486459315736
+    second: go_animation_BottGrass_34
+  - first:
+      213: -5960519552386183508
+    second: go_animation_BottGrass_35
+  - first:
+      213: 5741848887530483678
+    second: go_animation_BottGrass_36
+  - first:
+      213: 7014362722365791488
+    second: go_animation_BottGrass_37
+  - first:
+      213: -443632982924643844
+    second: go_animation_BottGrass_38
+  - first:
+      213: -6279522331549195463
+    second: go_animation_BottGrass_39
+  - first:
+      213: -1723645643450881060
+    second: go_animation_BottGrass_40
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: go_animation_BottGrass_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6326d6063a9bfc940800000000000000
+      internalID: 5318673796296434230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_1
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 191
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed2771ee8e014e00800000000000000
+      internalID: 1027118196848012783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_2
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 198
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce0ba0362aa1d010800000000000000
+      internalID: 1211936855741370048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_3
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 190
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b2b01d38aa79960800000000000000
+      internalID: 7608737578590350226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 151
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498fb518252d11070800000000000000
+      internalID: 8075466858651449492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 157
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e676b653be718ff20800000000000000
+      internalID: 3456539012987840366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 150
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce851b1c7b07f9770800000000000000
+      internalID: 8619732146341370092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_7
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 132
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074d91c8b5a2b8cd0800000000000000
+      internalID: -2554901790921730960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_8
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 136
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7534be6c4ac678f0800000000000000
+      internalID: -543024275427936901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_9
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 124
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968f670433a2b9210800000000000000
+      internalID: 1340711713686091881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_10
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 152
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5516259d0456d4c0800000000000000
+      internalID: -4263127579945986726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_11
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 118
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b561329760b827e0800000000000000
+      internalID: -1789986892998941256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_12
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 117
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366e7441109bb72c0800000000000000
+      internalID: -4432745993929759133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_13
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 118
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1903a6e919dc570800000000000000
+      internalID: 8488600982235681211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_14
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 93
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0e6f238c390b6c0800000000000000
+      internalID: -4129638370240962319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_15
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 128
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48dbc2e18c99ddaf0800000000000000
+      internalID: -369970509595755132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_16
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 130
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d812e93d28ce3a100800000000000000
+      internalID: 118198061882024333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_17
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 127
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d0c633883d22710800000000000000
+      internalID: 1667127394012237060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_18
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 132
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea77cb8d71657f30800000000000000
+      internalID: 4572668188508519145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_19
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 103
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ea1c2f69094d630800000000000000
+      internalID: 3950941751103041134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_20
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 100
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699b911a3e00acb10800000000000000
+      internalID: 2002413961980000662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_21
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 100
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceffdd5268317ef10800000000000000
+      internalID: 2298827601677778924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_22
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 82
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1486bfb2ea03650b0800000000000000
+      internalID: -5740347150416779199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_23
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 97
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c59c656bdcd882d0800000000000000
+      internalID: -3276125894054472249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_24
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 98
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d317847400e4840800000000000000
+      internalID: 5210102125072301447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_25
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 101
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d93a1952de185a0800000000000000
+      internalID: -6520670039842775682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_26
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 100
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03862b815b7fc6610800000000000000
+      internalID: 1615938723494651952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_27
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 81
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfa5b92587dc8510800000000000000
+      internalID: 1552852938466373587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_28
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 82
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084896b21687c4330800000000000000
+      internalID: 3696461752899830912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_29
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 70
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3d7d229e0867850800000000000000
+      internalID: 6374424061389820845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 75
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1153b3a656d0d600800000000000000
+      internalID: 491128026985353502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_31
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 72
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891b4a2569f0911f0800000000000000
+      internalID: -1073809897845116520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_32
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 71
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d331fd5cae55f9f0800000000000000
+      internalID: -435337694567910440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_33
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 73
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52821ad0937fda6d0800000000000000
+      internalID: -2977451954208167899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_34
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 56
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9614f0b55c54380800000000000000
+      internalID: -8987560486459315736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_35
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 68
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae404b1c0bf74da0800000000000000
+      internalID: -5960519552386183508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_36
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 67
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfe93f34252faf40800000000000000
+      internalID: 5741848887530483678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_37
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 75
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00dda587bb5085160800000000000000
+      internalID: 7014362722365791488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_38
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 74
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1312a0726e7d9f0800000000000000
+      internalID: -443632982924643844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_39
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 54
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933a0e4b5b7aad8a0800000000000000
+      internalID: -6279522331549195463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: go_animation_BottGrass_40
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 55
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbe5776b616418e0800000000000000
+      internalID: -1723645643450881060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
